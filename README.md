@@ -9,10 +9,6 @@
 
 ###
 
-<img align="right" height="150" src="https://avatars.githubusercontent.com/u/55090448?v=4"  />
-
-###
-
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" height="30" alt="apache logo"  />
   <img width="12" />
@@ -76,8 +72,8 @@
 
 ###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/pilsnercze/pilsnercze/output/snake.svg" alt="Snake animation" />
+<div align="center">
+  <img src="https://profile-counter.glitch.me/pilsnercze/count.svg?"  />
+</div>
 
 ###
